@@ -44,7 +44,7 @@ Una vez instaladas las dependencias, puedes iniciar la detección de zanahorias 
 
 ```bash
 python detect.py --source your_image_or_video
-
+ ```
 
 ## Contribuciones
 
